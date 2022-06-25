@@ -4,6 +4,11 @@ description: Hier erfährst du wie du deinen Core richtig einrichtest
 
 # Loslegen
 
+## Installieren
+
+Zunächst musst du die CoreAPI runterladen. Die CoreAPI für BungeeCord und Spigot kann im [Dashboard](https://dash.primeapi.de/downloads) runtergeladen werden. \
+Danach muss die .jar-Datei in den plugins ordner verschoben/hochgeladen werden. Nach einem Server-Restart sollten sich die Konfigurations-Datein erstellen haben.
+
 ## MySQL-Zugangsdaten
 
 Damit die Plugins ihre Daten speichern können, musst du deine **MySQL Daten** angeben. Wenn du den das Plugin in den plugins Order gezogen hast, und den Server einmal restartet hast, hat sich ein Order  **`plugins/primeplugins`** Order erstellt. Dort findest du eine **`config.yml`**, welche so aussieht:

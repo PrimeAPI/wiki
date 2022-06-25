@@ -20,7 +20,7 @@ Lade die Datei `PermissionsSystem-1.0.0.jar` auf deinen Spigot Server hoch.
 Lade die Datei erst nur auf einen Server hoch und kopiere den erstellten Ordner und die Datei nach der Einrichtung auf die verbleibenden Spigot Server.
 {% endhint %}
 
-Solltest du ein Proxy-basierendes System nutzen, musst du die CoreAPI für BungeeCord-Server installieren. Mehr dazu [hier](../core-api/loslegen.md).
+Solltest du ein Proxy-basierendes System nutzen, musst du die Datei `PermissionsSystem-Bungee-1.0.0.jar` auf deinen Proxy-/Bungeecord Server hochalden.
 
 #### Schritt 2: MySQL Daten angeben
 
