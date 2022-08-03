@@ -71,14 +71,14 @@ Unter connection findest du verschiedene Einstellmölichkeiten. \
 
 **Command**
 
-{% hint style="info" %} Dadurch das Discord die SlashCommands Cached, kann es einige Minuten dauern bis sie angezeigt werden! {% endhint %}
+{% hint style="info" %} Dadurch das die Verarbeitung von SlashCommands nicht dirket ist, kann dies einige Minuten dauern bis er angezeigt wird {% endhint %}
 
-  1 Command ➟ Hier gibts du den Namen des Befehls an, der zur Verifikation genutzt wird.
-  2 Info ➟ Die Information zum Verify-Command im Discord
-  3 Code ➟ Hier gibts du den Namen an, welchen das Argument für den Verifycode im Discord haben soll
-  4 Description ➟ Die Information was man beim 'Code' angeben muss
-  5 Groups-Verify-Apply ➟ Soll man bei der Verifikation die 'Verify' Gruppe im Discord erhalten
-  6 Groups-Roles-Apply ➟ Soll man Team oder andere Rollen erhalten
+  1 Command ➟ Hier gibts du den Namen des Befehls an, der zur Verifikation genutzt wird.<br>
+  2 Info ➟ Die Information zum Verify-Command im Discord<br>
+  3 Code ➟ Hier gibts du den Namen an, welchen das Argument für den Verifycode im Discord haben soll<br>
+  4 Description ➟ Die Information was man beim 'Code' angeben muss<br>
+  5 Groups-Verify-Apply ➟ Soll man bei der Verifikation die 'Verify' Gruppe im Discord erhalten<br>
+  6 Groups-Roles-Apply ➟ Soll man Team oder andere Rollen erhalten<br>
   
 ![](../.gitbook/assets/48Ue2db.png)
 
