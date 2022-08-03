@@ -98,3 +98,5 @@ Wenn du Notify antiwierst erhälst du in deinem Discord immer wenn jemand einen 
 Wenn du Report aktivierst, wehälst du in deinem Discord immer wenn jemand einen **Spieler reported** einen Nachricht in einen angegebenen Channel.
 
 Du musst bei beidem den Channel als ID angeben. Die ID gibst du genauso wie bei dem Channel von der [Verifikation](discord-bot.md#verifikation) an.
+
+![](../.gitbook/assets/image.png)
