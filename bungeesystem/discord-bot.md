@@ -95,8 +95,12 @@ Unter connection findest du verschiedene Einstellmölichkeiten. \
 
 Wenn du Notify antiwierst erhälst du in deinem Discord immer wenn jemand einen **Spieler bannt** eine Nachricht in einen angegebenen Channel.
 
+![](../.gitbook/assets/image.png)
+
 Wenn du Report aktivierst, wehälst du in deinem Discord immer wenn jemand einen **Spieler reported** einen Nachricht in einen angegebenen Channel.
 
-Du musst bei beidem den Channel als ID angeben. Die ID gibst du genauso wie bei dem Channel von der [Verifikation](discord-bot.md#verifikation) an.
+![](../.gitbook/assets/sdds.png)
 
-![](../.gitbook/assets/image.png)
+Du musst bei beidem den Channel als ID angeben. Die ID gibts du an, indem du Rechtsklick auf den Channel machst und dort auf 'ID kopieren' klickst.
+
+![](../.gitbook/assets/asdasdasda.png.png)
