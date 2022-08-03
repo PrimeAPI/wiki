@@ -60,9 +60,9 @@ In deinen Einstellungen kannst du unter Erweitert den Entwickler-Modus aktiviere
 Unter connection findest du verschiedene Einstellmölichkeiten. \
 1 Key ➟ Hier gibst du den Key den du dir vorher kopiert hast an\
 2 Status ➟ - Hier gibst du den OnlineStatus des Bots an. (grüner, gelber oder roter Kreis) (Liste aller möglichen Status: [_JDA Wiki_](https://ci.dv8tion.net/job/JDA/javadoc/net/dv8tion/jda/api/OnlineStatus.html) __ )\
-2 Activity.Type ➟ - Hier gibst du die Art der Acitify an. (Spielt..., Guckt.., etc...) (Liste aller möglichen Typs: [_JDA Wiki_](https://ci.dv8tion.net/job/JDA5/javadoc/net/dv8tion/jda/api/entities/Activity.ActivityType.html) )\
-3 Activitity.Value ➟  - Die aktivität die angezeigt wird nach dem Typ. Bspw. \[Spiel] verifizieren\
-4 Guild ➟  - Guild steht hier für deinen Discord-Server. Hier musst du die ID deiner Guilde angeben. Diese erhälst du indem du Rechtsklick auf dein Server-Icon machst, und dort die ID kopierst
+3 Activity.Type ➟ - Hier gibst du die Art der Acitify an. (Spielt..., Guckt.., etc...) (Liste aller möglichen Typs: [_JDA Wiki_](https://ci.dv8tion.net/job/JDA5/javadoc/net/dv8tion/jda/api/entities/Activity.ActivityType.html) )\
+4 Activitity.Value ➟  - Die aktivität die angezeigt wird nach dem Typ. Bspw. \[Spiel] verifizieren\
+5 Guild ➟  - Guild steht hier für deinen Discord-Server. Hier musst du die ID deiner Guilde angeben. Diese erhälst du indem du Rechtsklick auf dein Server-Icon machst, und dort die ID kopierst
 
 ![](<../.gitbook/assets/cbnttim (1) (1).png>)
 
