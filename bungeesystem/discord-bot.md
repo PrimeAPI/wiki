@@ -68,15 +68,18 @@ Unter connection findest du verschiedene Einstellmölichkeiten. \
 
 ### Verifikation
 
-**command** - Hier gibst du den Befehl ein, mit dem sich Spieler verifizieren Können. Bei !link können sich Spieler dann mit `!link <Code>` verifizieren\
-**channel** - Die ID des Channels in dem sich spieler verifizieren können. Diese erhälst du indem du Rechtsklick auf den Channel machst, und dort ID kopieren auswälst. (Wie beim Guild)\
-**deleteAllMessages** - Wenn du hier true angibst, werden alle Nachrichten die in diesen Channel geschrieben werden automatisch gelöscht.\
-\
-_**groups**_ - Hier kannst du Einstellen, ob und welche Gruppen beim verifizieren vergeben werden.\
-**verify** - Diese Gruppe wird jedem der sich verifiziert gegeben, egal welchen Rang er hat.\
-**apply** de/aktiviert diese Funktion.\
-**id** gibt die id der Rolle an. Diese erhälst du indem bei in den Rollen Einstellungen in der Servereinstellungen einen Rechtsklick auf die Rolle machst, und dort ID kopieren auswählst:
 
+**Command**
+
+{% hint style="info" %} Dadurch das Discord die SlashCommands Cached, kann es einige Minuten dauern bis sie angezeigt werden! {% endhint %}
+
+  1 Command ➟ Hier gibts du den Namen des Befehls an, der zur Verifikation genutzt wird.
+  2 Info ➟ Die Information zum Verify-Command im Discord
+  3 Code ➟ Hier gibts du den Namen an, welchen das Argument für den Verifycode im Discord haben soll
+  4 Description ➟ Die Information was man beim 'Code' angeben muss
+  5 Groups-Verify-Apply ➟ Soll man bei der Verifikation die 'Verify' Gruppe im Discord erhalten
+  6 Groups-Roles-Apply ➟ Soll man Team oder andere Rollen erhalten
+  
 ![](../.gitbook/assets/48Ue2db.png)
 
 **roles** -  Vergibt Rollen je nach einer Permission die ein spieler haben muss.\
