@@ -103,4 +103,4 @@ Wenn du Report aktivierst, wehälst du in deinem Discord immer wenn jemand einen
 
 Du musst bei beidem den Channel als ID angeben. Die ID gibts du an, indem du Rechtsklick auf den Channel machst und dort auf 'ID kopieren' klickst.
 
-![](../.gitbook/assets/asdasdasda.png.png)
+![](../.gitbook/assets/asdasdasda.png)
