@@ -82,7 +82,7 @@ Unter connection findest du verschiedene Einstellmölichkeiten. \
   <br>
   Wie muss ich die Gruppen angeben?<br>
   <br>
-  `permssion:Rollen-ID`.&#x20;<br>
+  `permission:Rollen-ID`.&#x20;<br>
   <br>
   permission ➟ Bei welcher Ingame Permission soll die Gruppe vergeben werden<br>
   Rollen-ID ➟ Welche Rolle soll dieser Spieler im Discord bekommen.<br><br>
