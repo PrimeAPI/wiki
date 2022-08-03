@@ -76,15 +76,20 @@ Unter connection findest du verschiedene Einstellmölichkeiten. \
   1 Command ➟ Hier gibts du den Namen des Befehls an, der zur Verifikation genutzt wird.<br>
   2 Info ➟ Die Information zum Verify-Command im Discord<br>
   3 Code ➟ Hier gibts du den Namen an, welchen das Argument für den Verifycode im Discord haben soll<br>
-  4 Description ➟ Die Information was man beim 'Code' angeben muss<br>
+  4 Description ➟ Die Information was man beim 'Code' angegeben werden muss<br>
   5 Groups-Verify-Apply ➟ Soll man bei der Verifikation die 'Verify' Gruppe im Discord erhalten<br>
   6 Groups-Roles-Apply ➟ Soll man Team oder andere Rollen erhalten<br>
+  <br>
+  Wie muss ich die Gruppen angeben?<br>
+  <br>
+  `permssion:Rollen-ID`.&#x20;<br>
+  <br>
+  permission ➟ Bei welcher Ingame Permission soll die Gruppe vergeben werden<br>
+  Rollen-ID ➟ Welche Rolle soll dieser Spieler im Discord bekommen.<br><br>
+  
+  Wie bekomme ich die Rollen-ID herraus?
   
 ![](../.gitbook/assets/48Ue2db.png)
-
-**roles** -  Vergibt Rollen je nach einer Permission die ein spieler haben muss.\
-**apply** - de/aktiviert diese Funktion\
-**id** - Eine Liste von permissions und der dazugehörigen Rollen-ID (siehe oben). Format: `permssion:Rollen-ID`.&#x20;
 
 ### Notify & Report
 
